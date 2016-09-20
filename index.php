@@ -146,7 +146,7 @@
 							At our mens grooming salon we offer <br/>
 							the very best in men's hair cuts delivered <br/>
 							by expert mens hairdressers<br/>
-							<span class="slide-button"><a href="#contactme">Növbə götür</a></span>
+							<span class="slide-button"><a href="#contactme">Əlaqə</a></span>
 						</p>
 					</div>
 				</li>
@@ -157,7 +157,7 @@
                         Mens Eyebrow Re-shape</h2>
 						<p class="slide-text">
 							Duis aute irure dolor in reprehenderit <br>in voluptate velit esse cillum dolore<br> eu fugiat nulla pariatur.<br/>
-							<span class="slide-button"><a href="#contactme">Növbə götür</a></span>
+							<span class="slide-button"><a href="#contactme">Əlaqə</a></span>
 						</p>
 					</div>
 				</li>
@@ -167,7 +167,7 @@
 						<h2 class="slide-title">Yaxşı görünsən, <br />özünü yaxşı hiss edərsən.</h2>
 						<p class="slide-text">
 							Duis aute irure dolor in reprehenderit <br>in voluptate velit esse cillum dolore<br> eu fugiat nulla pariatur<br>
-							<span class="slide-button"><a href="#contactme">Növbə götür</a></span>
+							<span class="slide-button"><a href="#contactme">Əlaqə</a></span>
 						</p>
 					</div>
 				</li>
