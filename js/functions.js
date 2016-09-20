@@ -144,7 +144,7 @@ $(window).load(function(){
     ibLabel.open(map);
 
     google.maps.event.addListener(marker, 'click', function() {
-        ibLabel.open(map);
+        
     });
 
 });
