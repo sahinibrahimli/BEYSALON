@@ -1310,7 +1310,7 @@
 		<a href="https://www.facebook.com/azebeycan?fref=ts" class="skype"></a>        
 		<a href="https://www.facebook.com/pages/Bey-salon-baku/348379385291951?fref=ts" class="skype"></a>
 		<br/>
-		© 2014 Bütün isdifadəçi hüquqları qorunur. ©İrbaam
+		© 2014 Bütün isdifadəçi hüquqları qorunur. ©Şahin Turan İrbaam
 	</footer>
 	
 	
